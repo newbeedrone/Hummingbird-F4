@@ -17,3 +17,5 @@ HummingBird F4 1S whoop brushless flight controller is the first brushless fligh
 * NBD OSD(Betaflight OSD Compatible)
 * 5V 1A Power support for external VTX Camera Or Receiver.
 * Weight: 3.77g include power cable and PH2.0 Plug
+
+Source code: https://github.com/newbeedrone/betaflight/
